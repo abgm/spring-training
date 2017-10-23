@@ -1,4 +1,4 @@
-package com.example;
+package com.training.rabbitmq;
 
 import java.util.LinkedList;
 import java.util.List;
